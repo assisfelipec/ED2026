@@ -1,0 +1,15 @@
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\bin\Debug\net10.0\EX.VETORES.exe
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\bin\Debug\net10.0\EX.VETORES.deps.json
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\bin\Debug\net10.0\EX.VETORES.runtimeconfig.json
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\bin\Debug\net10.0\EX.VETORES.dll
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\bin\Debug\net10.0\EX.VETORES.pdb
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\obj\Debug\net10.0\EX.VETORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\obj\Debug\net10.0\EX.VETORES.AssemblyInfoInputs.cache
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\obj\Debug\net10.0\EX.VETORES.AssemblyInfo.cs
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\obj\Debug\net10.0\EX.VETORES.csproj.CoreCompileInputs.cache
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\obj\Debug\net10.0\EX.VETORES.sourcelink.json
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\obj\Debug\net10.0\EX.VETORES.dll
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\obj\Debug\net10.0\refint\EX.VETORES.dll
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\obj\Debug\net10.0\EX.VETORES.pdb
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\obj\Debug\net10.0\EX.VETORES.genruntimeconfig.cache
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX.VETORES\obj\Debug\net10.0\ref\EX.VETORES.dll

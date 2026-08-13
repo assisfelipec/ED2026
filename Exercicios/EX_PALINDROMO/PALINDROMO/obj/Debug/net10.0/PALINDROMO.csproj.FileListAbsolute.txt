@@ -1,0 +1,15 @@
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\bin\Debug\net10.0\PALINDROMO.exe
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\bin\Debug\net10.0\PALINDROMO.deps.json
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\bin\Debug\net10.0\PALINDROMO.runtimeconfig.json
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\bin\Debug\net10.0\PALINDROMO.dll
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\bin\Debug\net10.0\PALINDROMO.pdb
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\obj\Debug\net10.0\PALINDROMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\obj\Debug\net10.0\PALINDROMO.AssemblyInfoInputs.cache
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\obj\Debug\net10.0\PALINDROMO.AssemblyInfo.cs
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\obj\Debug\net10.0\PALINDROMO.csproj.CoreCompileInputs.cache
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\obj\Debug\net10.0\PALINDROMO.sourcelink.json
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\obj\Debug\net10.0\PALINDROMO.dll
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\obj\Debug\net10.0\refint\PALINDROMO.dll
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\obj\Debug\net10.0\PALINDROMO.pdb
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\obj\Debug\net10.0\PALINDROMO.genruntimeconfig.cache
+C:\Users\466844\Documents\Estrutura de Dados\2026\Exercicios\EX_PALINDROMO\PALINDROMO\obj\Debug\net10.0\ref\PALINDROMO.dll
