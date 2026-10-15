@@ -13,7 +13,7 @@ SISTEMA DE CONTROLE DE AUTOMÓVEIS
 */
 
 int choice = 1;
-Dictionary<string, List<string>> dataBank = new Dictionary<string, List<string>>();
+Dictionary<string, Vehicle> dataBank = new Dictionary<string, Vehicle>();
 
 while(true)
 {  
@@ -60,40 +60,48 @@ void Menu()
 
 void Register()
 {
+    Vehicle newCar = new Vehicle();
+
     Console.Clear();
     Console.WriteLine("Qual a placa do carro?");
     String licensePlate = Console.ReadLine()!;
 
     Console.WriteLine("Qual a marca do carro?");
-    String brand = Console.ReadLine()!;
+    newCar.Brand = Console.ReadLine()!;
 
     Console.WriteLine("Qual o ano do carro?");
-    String year = Console.ReadLine()!;
+    newCar.Year = int.Parse(Console.ReadLine()!);
 
     Console.WriteLine("Qual a cor do carro?");
-    String color = Console.ReadLine()!;
+    newCar.Color = Console.ReadLine()!;
 
     Console.WriteLine("Qual o valor do carro?");
-    String value = Console.ReadLine()!;
+    newCar.Value = double.Parse(Console.ReadLine()!);
 
-    List<string> informations = new List<string>
-    {
-        brand,
-        year,
-        color,
-        value
-    };
+    Console.WriteLine("Carro registrado com sucesso!");
 
     dataBank.Add
     (
-        licensePlate, informations
+        licensePlate, newCar
     );
 }
 
 void SearchByLicensePlate()
 {
-    foreach(KeyValuePair<string, List<string>> entry in dataBank)
+    Console.Clear();
+    Console.WriteLine("Qual a placa do veículo?");
+    string licensePlate = Console.ReadLine()!;
+    foreach(KeyValuePair<string, Vehicle> entry in dataBank)
     {
-        
+        if(entry.Key == licensePlate)
+        {
+            Console.WriteLine("Carro encontrado!\n");
+            
+        }
     }
+}
+
+void ShowInformations(Dictionary<string, Vehicle> DataBank)
+{
+    
 }
